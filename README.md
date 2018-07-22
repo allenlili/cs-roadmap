@@ -1,6 +1,6 @@
 ## Computer Science Roadmap
 
-#### Intro to CS
+### Intro to CS
 
 - [x] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
 - [x] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
@@ -12,7 +12,7 @@
 - [ ] [CS106B - Programming Abstractions - Stanford](https://see.stanford.edu/Course/CS106B)
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 
-#### Maths for CS
+### Maths for CS
 
 - **Calculus**
     - [x] [18.01 - Single Variable Calculus, Fall 2006 - MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
@@ -37,7 +37,7 @@
     - [ ] [EE364B - Convex Optimization II - Stanford](https://see.stanford.edu/Course/EE364B)
     - [ ] [10-725 - Convex Optimization, Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
 
-#### Data Structures and Algorithms
+### Data Structures and Algorithms
 
 - [ ] [CS61B - Data Structures, Spring 2018 - UC Berkeley](https://sp18.datastructur.es/)
 - [ ] [6.006 - Introduction to Algorithms, Fall 2011 - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
@@ -49,7 +49,7 @@
 - [ ] [CS224 - Advanced Algorithms, Fall 2014 - Harvard](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
 - [ ] [CS229R - Algorithms for Big Data, Fall 2015 - Harvard](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html)
 
-#### Machine Learning
+### Machine Learning
 
 - **Machine Learning**
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
@@ -84,33 +84,33 @@
     - [ ] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
     - [ ] [CS224N - Natural Language Processing with Deep Learning, Winter 2017 - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-#### System Programming
+### System Programming
 
 - [ ] [15-213  - Introduction to Computer Systems, Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
 - [ ] [CS162 - Operating Systems and System Programming, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-spring2015-berkeley.html)
 - [ ] [6.824 Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV)
 
-#### Software Engineering
+### Software Engineering
 
 - [ ] [CS169 - Software Engineering, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-spring2015-berkeley.html)
 
-#### Database Systems
+### Database Systems
 
 - [x] [CS145 - Introduction to Databases - Stanford](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 - [ ] [15-445 - Introduction to Database Systems, Fall 2017 - CMU](https://15445.courses.cs.cmu.edu/fall2017/)
 - [ ] [15-721 - Advanced Database Systems, Spring 2018 - CMU](https://15721.courses.cs.cmu.edu/spring2018/)
 
-#### Computer Networks
+### Computer Networks
 
 - [ ] [14-740 - Fundamentals of Computer Networks, Fall 2017 - CMU](http://www.ini740.com/F17/index.html)
 - [ ] [CS144 - Introduction to Computer Networking - Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-#### Big Data
+### Big Data
 - [ ] [MOOC - Big Data for Data Engineering - Yandex](https://www.coursera.org/specializations/big-data-engineering)
 - [ ] [MOOC - Cloud Computing - University of Illinois](https://www.coursera.org/specializations/cloud-computing)
 - [ ] [MOOC - Big Data - UC San Diego](https://www.coursera.org/specializations/big-data)
 
-#### Programming Languages
+### Programming Languages
 
 - [ ] [CS143 - Compilers, Fall 2014 - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 - [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
