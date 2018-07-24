@@ -49,6 +49,39 @@
 - [ ] [CS224 - Advanced Algorithms, Fall 2014 - Harvard](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
 - [ ] [CS229R - Algorithms for Big Data, Fall 2015 - Harvard](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html)
 
+### Computer Architecture
+
+- [ ] [CS61C - Great Ideas in Computer Architecture, Spring 2015 - UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
+- [ ] [CS152 - Computer Architecture and Engineering, Spring 2016 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
+
+### System Programming
+
+- [ ] [15-213  - Introduction to Computer Systems, Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
+- [ ] [CS162 - Operating Systems and System Programming, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-spring2015-berkeley.html)
+- [ ] [6.824 Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV)
+
+### Software Engineering
+
+- [ ] [CS169 - Software Engineering, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-spring2015-berkeley.html)
+
+### Database Systems
+
+- [x] [CS145 - Introduction to Databases - Stanford](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+- [ ] [15-445 - Introduction to Database Systems, Fall 2017 - CMU](https://15445.courses.cs.cmu.edu/fall2017/)
+- [ ] [15-721 - Advanced Database Systems, Spring 2018 - CMU](https://15721.courses.cs.cmu.edu/spring2018/)
+
+### Computer Networks
+
+- [ ] [14-740 - Fundamentals of Computer Networks, Fall 2017 - CMU](http://www.ini740.com/F17/index.html)
+- [ ] [CS144 - Introduction to Computer Networking - Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+
+### Programming Languages
+
+- [ ] [CS143 - Compilers, Fall 2014 - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+- [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
+- [ ] [CS154 - Automata Theory - Stanford](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about)
+- [ ] [CS210 - Functional Programming in Scala - EPFL](https://www.coursera.org/specializations/scala)
+
 ### Machine Learning
 
 - **Machine Learning**
@@ -84,35 +117,7 @@
     - [ ] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
     - [ ] [CS224N - Natural Language Processing with Deep Learning, Winter 2017 - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-### System Programming
-
-- [ ] [15-213  - Introduction to Computer Systems, Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
-- [ ] [CS162 - Operating Systems and System Programming, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-spring2015-berkeley.html)
-- [ ] [6.824 Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV)
-
-### Software Engineering
-
-- [ ] [CS169 - Software Engineering, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-spring2015-berkeley.html)
-
-### Database Systems
-
-- [x] [CS145 - Introduction to Databases - Stanford](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
-- [ ] [15-445 - Introduction to Database Systems, Fall 2017 - CMU](https://15445.courses.cs.cmu.edu/fall2017/)
-- [ ] [15-721 - Advanced Database Systems, Spring 2018 - CMU](https://15721.courses.cs.cmu.edu/spring2018/)
-
-### Computer Networks
-
-- [ ] [14-740 - Fundamentals of Computer Networks, Fall 2017 - CMU](http://www.ini740.com/F17/index.html)
-- [ ] [CS144 - Introduction to Computer Networking - Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-
 ### Big Data
 - [ ] [MOOC - Big Data for Data Engineering - Yandex](https://www.coursera.org/specializations/big-data-engineering)
 - [ ] [MOOC - Cloud Computing - University of Illinois](https://www.coursera.org/specializations/cloud-computing)
 - [ ] [MOOC - Big Data - UC San Diego](https://www.coursera.org/specializations/big-data)
-
-### Programming Languages
-
-- [ ] [CS143 - Compilers, Fall 2014 - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-- [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
-- [ ] [CS154 - Automata Theory - Stanford](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about)
-- [ ] [CS210 - Functional Programming in Scala - EPFL](https://www.coursera.org/specializations/scala)
