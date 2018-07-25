@@ -1,5 +1,7 @@
 ## Computer Science Roadmap
 
+- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
 ### Intro to CS
 
 - [x] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
@@ -21,16 +23,19 @@
 
 - **Linear Algebra**
     - [x] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+    - [ ] [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
 
 - **Probability and Statistics**
     - [x] [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2013 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
     - [ ] [STAT110 - Probability - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
     - [ ] [18.650 - Statistics for Applications, Fall 2016 - MIT](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
+    - [ ] [36-705 - Intermediate Statistics, Fall 2016 - CMU](http://www.stat.cmu.edu/~larry/=stat705/)
     - [ ] [6.262 - Discrete Stochastic Processes, Spring 2011 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
     - [ ] [AM207 - Stochastic Methods for Data Analysis, Inference and Optimization, 2016 - Harvard](http://am207.github.io/2016/index.html)
 
 -  **Discrete Maths**
     - [x] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+    - [ ] [15-251 - Great Ideas in Theoretical Computer Science - CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
 
 -  **Opmitisation**
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
@@ -56,9 +61,10 @@
 
 ### System Programming
 
-- [ ] [15-213  - Introduction to Computer Systems, Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
+- [ ] [15-213 - Introduction to Computer Systems, Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
 - [ ] [CS162 - Operating Systems and System Programming, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-spring2015-berkeley.html)
-- [ ] [6.824 Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV)
+- [ ] [6.824 - Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV)
+- [ ] [15-418 - Parallel Computer Architecture and Programming, Spring 2016 - CMU](https://www.youtube.com/playlist?list=PLpIxOj-HnDsO4Atvrp86c-4La9Mq3kMQZ)
 
 ### Software Engineering
 
@@ -82,9 +88,10 @@
 - [ ] [CS154 - Automata Theory - Stanford](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about)
 - [ ] [CS210 - Functional Programming in Scala - EPFL](https://www.coursera.org/specializations/scala)
 
-### Machine Learning
+### Machine Learning and Artificial Intelligence
 
 - **Machine Learning**
+    - [ ] [10-606 - Math Background for Machine Learning, Fall 2017 - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
     - [ ] [MOOC - Machine Learning - Stanford](http://www.holehouse.org/mlclass/)
     - [ ] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
@@ -106,6 +113,7 @@
 - **Artificial Intelligence**
     - [ ] [CS188 - Introduction to Artificial Intelligence - UC Berkeley](http://ai.berkeley.edu/home.html)
     - [ ] [6.034 - Artificial Intelligence, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+    - [ ] [15-780 - Graduate Artificial Intelligence, Spring 2017 - CMU](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPfw9slkk0BfwuiNEYVnsd_)
 
 - **Probabilistic Graphical Models**
     - [ ] [10-708 - Probabilistic Graphical Models, Spring 2014 - CMU](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
