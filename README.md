@@ -2,7 +2,7 @@
 
 - [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
-### Intro to CS
+### Intro to CS and Programming
 
 - [x] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
 - [x] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
