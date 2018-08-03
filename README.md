@@ -1,6 +1,6 @@
 ## Computer Science Roadmap
 
-- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 ### Intro to CS
 
