@@ -11,8 +11,6 @@
 - [ ] [CS61A - Structure and Interpretation of Computer Programs (Scheme), 2010 - UC Berkeley](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
 - [ ] [CS212 - Design of Computer Programs - Peter Norvig](https://eu.udacity.com/course/design-of-computer-programs--cs212)
 - [ ] [CS106A - Programming Methodology - Stanford](https://see.stanford.edu/Course/CS106A)
-- [ ] [CS106B - Programming Abstractions - Stanford](https://see.stanford.edu/Course/CS106B)
-- [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 
 ### Maths for CS
 
@@ -69,6 +67,8 @@
 ### Software Engineering
 
 - [ ] [CS169 - Software Engineering, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-spring2015-berkeley.html)
+- [ ] [CS106B - Programming Abstractions - Stanford](https://see.stanford.edu/Course/CS106B)
+- [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 
 ### Database Systems
 
