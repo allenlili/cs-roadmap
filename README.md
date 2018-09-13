@@ -100,6 +100,7 @@
     - [ ] [CS156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
     - [ ] [10-601 - Introduction to Machine Learning (MS), Spring 2015 - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
     - [ ] [10-701 - Introduction to Machine Learning (PhD), Spring 2011 - CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+    - [ ] [Machine Learning, Fall 2014 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [10-702 - Statistical Machine Learning, Spring 2015 - CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r)
     - [ ] [Information Theory, Pattern Recognition, and Neural Networks, 2012 - Cambridge](http://www.inference.org.uk/itprnn/)
     - [ ] [C281B - Scalable Machine Learning, 2012 - UC Berkeley](http://alex.smola.org/teaching/berkeley2012/syllabus.html)
@@ -126,7 +127,11 @@
     - [ ] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
     - [ ] [CS224N - Natural Language Processing with Deep Learning, Winter 2017 - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-### Big Data
+- **Reinforcement Learning**
+    - [ ] [CS294 - Deep Reinforcement Learning, Fall 2018 - UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+    - [ ] [COMPM050 - Reinforcement Learning, 2015 - UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+
+### Data Engineering
 - [ ] [MOOC - Big Data for Data Engineering - Yandex](https://www.coursera.org/specializations/big-data-engineering)
 - [ ] [MOOC - Cloud Computing - University of Illinois](https://www.coursera.org/specializations/cloud-computing)
 - [ ] [MOOC - Big Data - UC San Diego](https://www.coursera.org/specializations/big-data)
