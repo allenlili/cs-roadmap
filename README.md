@@ -91,8 +91,14 @@
 
 ### Machine Learning and Artificial Intelligence
 
-- **Machine Learning**
+- **Maths for ML (mostly books)**
     - [ ] [10-606 - Math Background for Machine Learning, Fall 2017 - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)
+    - [ ] [18-657 - Mathematics of Machine Learning, Fall 2015 - MIT](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
+    - [ ] [CO-496 - Mathematics for Inference and Machine Learning - Imperial College](http://wp.doc.ic.ac.uk/sml/teaching/mathematics-for-machine-learning-autumn-2016/)
+    - [ ] [Book - Mathematics for Machine Learning - Imperial College](https://mml-book.com/)
+    - [ ] [Book - Mathematics for Machine Learning - UC Berkeley](http://gwthomas.github.io/docs/math4ml.pdf)
+
+- **Machine Learning**
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
     - [ ] [MOOC - Machine Learning - Stanford](http://www.holehouse.org/mlclass/)
     - [ ] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
