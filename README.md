@@ -98,6 +98,11 @@
     - [ ] [Book - Mathematics for Machine Learning - Imperial College](https://mml-book.com/)
     - [ ] [Book - Mathematics for Machine Learning - UC Berkeley](http://gwthomas.github.io/docs/math4ml.pdf)
 
+- **Artificial Intelligence**
+    - [ ] [CS188 - Introduction to Artificial Intelligence, Fall 2018 - UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+    - [ ] [6.034 - Artificial Intelligence, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+    - [ ] [15-780 - Graduate Artificial Intelligence, Spring 2017 - CMU](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPfw9slkk0BfwuiNEYVnsd_)
+
 - **Machine Learning**
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
     - [ ] [MOOC - Machine Learning - Stanford](http://www.holehouse.org/mlclass/)
@@ -109,6 +114,7 @@
     - [ ] [Machine Learning, Fall 2014 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [10-702 - Statistical Machine Learning, Spring 2015 - CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r)
     - [ ] [Information Theory, Pattern Recognition, and Neural Networks, 2012 - Cambridge](http://www.inference.org.uk/itprnn/)
+    - [ ] [CS189/281A - Introduction to Machine Learning, Spring 2016 - UC Berkeley](https://people.eecs.berkeley.edu/~jrs/189s16/)
     - [ ] [C281B - Scalable Machine Learning, 2012 - UC Berkeley](http://alex.smola.org/teaching/berkeley2012/syllabus.html)
     - [ ] [STA4273H - Large Scale Machine Learning, Winter 2015 - University of Toronto](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
     - [ ] [18.409 - Algorithmic Aspects of Machine Learning, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
@@ -117,11 +123,6 @@
 - **Data Mining**
     - [ ] [CS246 - Mining of Massive Datasets - Stanford](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
     - [ ] [MOOC - Data Mining - University of Illinois](https://www.coursera.org/specializations/data-mining)
-
-- **Artificial Intelligence**
-    - [ ] [CS188 - Introduction to Artificial Intelligence - UC Berkeley](http://ai.berkeley.edu/home.html)
-    - [ ] [6.034 - Artificial Intelligence, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
-    - [ ] [15-780 - Graduate Artificial Intelligence, Spring 2017 - CMU](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPfw9slkk0BfwuiNEYVnsd_)
 
 - **Probabilistic Graphical Models**
     - [ ] [10-708 - Probabilistic Graphical Models, Spring 2014 - CMU](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
