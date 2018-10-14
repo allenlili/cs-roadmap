@@ -7,7 +7,7 @@
 - [x] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
 - [x] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [x] [6.0002 - Introduction to Computational Thinking and Data Science, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-- [ ] [CS61A - Structure and Interpretation of Computer Programs (Python) - UC Berkeley](http://cs61a.org/)
+- [ ] :memo: [CS61A - Structure and Interpretation of Computer Programs (Python) - UC Berkeley](http://cs61a.org/)
 - [ ] [CS61A - Structure and Interpretation of Computer Programs (Scheme), 2010 - UC Berkeley](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
 - [ ] [CS212 - Design of Computer Programs - Peter Norvig](https://eu.udacity.com/course/design-of-computer-programs--cs212)
 
@@ -24,7 +24,7 @@
 
 - **Probability and Statistics**
     - [x] [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2013 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
-    - [ ] [STAT110 - Probability - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+    - [ ] :memo: [STAT110 - Probability - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
     - [ ] [18.650 - Statistics for Applications, Fall 2016 - MIT](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
     - [ ] [36-705 - Intermediate Statistics, Fall 2016 - CMU](http://www.stat.cmu.edu/~larry/=stat705/)
     - [ ] [6.262 - Discrete Stochastic Processes, Spring 2011 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
