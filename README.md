@@ -55,6 +55,7 @@
 
 - [ ] [CS61C - Great Ideas in Computer Architecture, Spring 2015 - UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 - [ ] [CS152 - Computer Architecture and Engineering, Spring 2016 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
+- [ ] [18-447 - Computer Architecture, Spring 2015 - CMU](http://www.archive.ece.cmu.edu/~ece447/s15/doku.php?id=schedule)
 
 ### System Programming
 
@@ -105,7 +106,6 @@
 
 - **Machine Learning**
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-    - [ ] [MOOC - Machine Learning - Stanford](http://www.holehouse.org/mlclass/)
     - [ ] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
     - [ ] [CS155 - Machine Learning & Data Mining, Winter 2017 - Caltech](http://www.yisongyue.com/courses/cs155/2017_winter/)
     - [ ] [CS156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
