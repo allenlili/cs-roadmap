@@ -15,6 +15,7 @@
 - [ ] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
 - [ ] [CS106B - Programming Abstractions (C++) - Stanford](https://see.stanford.edu/Course/CS106B)
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
+- [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
 - [ ] [CS212 - Design of Computer Programs - Peter Norvig](https://eu.udacity.com/course/design-of-computer-programs--cs212)
 - [ ] [CS210 - Functional Programming in Scala - EPFL](https://www.coursera.org/specializations/scala)
 
@@ -104,7 +105,6 @@
 
 - [ ] [CS143 - Compilers, Fall 2014 - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 - [ ] [CS164 - Programming Languages and Compilers, Spring 2012 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs164-spring2012-berkeley.html)
-- [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
 
 ### Theoretical CS
 
